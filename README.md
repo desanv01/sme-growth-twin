@@ -1,4 +1,6 @@
-# SME Growth Twin
+# SME Growth Twin — AI Horizon Hackathon 2026
+
+Developed for **AI Horizon Solution Challenge 2026 (AI Horizon Hackathon 2026)**, in the **AI SME Digital Growth Advisor** challenge track with **Exabytes**, as part of the event at Penang Waterfront Convention Centre (PWCC).
 
 SME Growth Twin turns a short business interview into an explainable digital-maturity diagnosis, evidence-linked capability recommendations, and a practical transformation blueprint for Malaysian SMEs.
 
